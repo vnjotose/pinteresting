@@ -43,3 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# just added by Vinsen
+#gem 'bootstrap-saas', github: 'twbs/bootstrap-sass', branch: '3'
+gem "bootstrap-sass", "~> 3.1.1.0"
