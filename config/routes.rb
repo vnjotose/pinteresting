@@ -1,4 +1,6 @@
 Pinteresting::Application.routes.draw do
+  #do rake routes to print the routes created
+  devise_for :users
   # get "pages/home"
   root "pages#home"
   get "about" => "pages#about" #creates about_path

@@ -1,8 +1,19 @@
 $body-bg: #bdc3c7;
 $navbar-default-bg: #7f8c8d;
+$navbar-height: 45px;
 $navbar-default-color: white;
 $navbar-default-link-color: white;
 $navbar-inverse-bg: #7f8c8d;
 $navbar-inverse-link-color: white;
 
 @import 'bootstrap';
+
+.center
+{
+	text-align: center;
+}
+
+.navbar-brand
+{
+	font-weight: bold;
+}

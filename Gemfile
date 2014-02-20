@@ -47,3 +47,4 @@ end
 # just added by Vinsen
 #gem 'bootstrap-saas', github: 'twbs/bootstrap-sass', branch: '3'
 gem "bootstrap-sass", "~> 3.1.1.0"
+gem "devise", "~> 3.2.2"
